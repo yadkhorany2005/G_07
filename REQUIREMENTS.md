@@ -89,7 +89,7 @@ This document describes the functional and nonfunctional requirements for the Me
 ## Role 4 (Structured Specification Developer)
 Role prepared by : Shatu Bakhtiar
 
-
+1.Function: Conduct Disorder Assessment Quiz
 | Field | Description |
 |-------|-------------|
 | Description | It gives the user a set of questions related to a chosen disorder. Such disorders include autism, anxiety, or depression. The system calculates a total score from the responses. Based on those responses, it also determines the level of symptom severity. |
@@ -106,6 +106,19 @@ Role prepared by : Shatu Bakhtiar
 
 
 
+2. Function: Display Personalized Feedback
+   | Field | Description |
+|-------|-------------|
+| Description | helps users understand their condition and potential next steps by displaying clear, trustworthy explanations and helpful advice based on the assessment results. |
+| Inputs | The disorder type and the user's calculated score. |
+| Source | Results from the assessment module. |
+| Outputs | For instance, "Your score indicates moderate anxiety" is an example of text feedback. Try deep breathing techniques or consult a specialist. |
+| Destination | Result page or modal window. |
+| Action | The system then calculates the assessment result. Then, it retrieves from its database the text for feedback that corresponds with the user's disorder type and severity level. Next, the system displays the feedback to the user in the chosen language. |
+| Requires | Predefined feedback messages stored in the database. |
+| Precondition | Assessment quiz has been completed and scored. |
+| Postcondition | The user is advised in the appropriate language on the |
+| Side Effects | None. |
 
 
 
