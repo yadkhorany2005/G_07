@@ -12,6 +12,16 @@ To get all the necessary information needed for the website, three elicitation t
 2. Interviews with stakeholders were done too by team members and experts on the subject.
 3. Team brainstorming session was conducted to refine the ideas of users from the survey and interviews from stakeholders.
 
+Brainstorming
+
+1. The team had a brainstorming session to improve ideas from the survey and interviews.
+2. We talked about what users want and what experts suggested.
+3. Everyone shared their ideas and wrote them down.
+4. Similar ideas were grouped together to see which ones were most important.
+5. We focused on features users need, like safety and privacy.
+6. We also talked about the website design, like keeping it simple, clean, fast, and easy for everyone to use.
+7. At the end, the team decided on the main features and how the website should be organized.
+
 SURVEY
 
 Aa survey was conducted to get the opinion of users to see their preferences on topics such as expectation preferences and functions.
