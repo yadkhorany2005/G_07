@@ -64,7 +64,7 @@ This document describes the functional and nonfunctional requirements for the Me
 
 ## User Requirements
 
-| ID |  | User Requirement                            |   Description                                             |
+| ID   | User Requirement                            |   Description                                             |
 |-------|---------------------------------------------|-----------------------------------------------------------|
 | UR-01 | Learn about mental disorders                | Website provides educational reliable content.            |
 | UR-02 | Check symptoms easily.                      | Short, and simple questionnaire format.                   |
@@ -76,7 +76,7 @@ This document describes the functional and nonfunctional requirements for the Me
 
 ## System Requirements
 
-| ID | System Requirement  |                                                       Description                                              |
+| ID | System Requirement      |                                                       Description                                              |
 |----|-------------------------------------------|------------------------------------------------------------------------------------------|
 | SR-01 | Calculate and display results.         | Automates results and feedback display.                                                  |
 | SR-02 | Maintain secure and reliable database. | Stores users’ responses temporarily and safely.                                          |
