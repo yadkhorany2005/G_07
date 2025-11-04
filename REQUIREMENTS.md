@@ -106,8 +106,9 @@ Role prepared by : Shatu Bakhtiar
 
 
 
-2. Function: Display Personalized Feedback
-   | Field | Description |
+## 2. Function: Display Personalized Feedback
+
+ | Field | Description |
 |-------|-------------|
 | Description | helps users understand their condition and potential next steps by displaying clear, trustworthy explanations and helpful advice based on the assessment results. |
 | Inputs | The disorder type and the user's calculated score. |
@@ -119,7 +120,6 @@ Role prepared by : Shatu Bakhtiar
 | Precondition | Assessment quiz has been completed and scored. |
 | Postcondition | The user is advised in the appropriate language on the |
 | Side Effects | None. |
-
 
 
 
