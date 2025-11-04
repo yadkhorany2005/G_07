@@ -89,21 +89,19 @@ This document describes the functional and nonfunctional requirements for the Me
 ## Role 4 (Structured Specification Developer)
 Role prepared by : Shatu Bakhtiar
 
-## Use Case: Disorder Assessment
 
-| Field                   | Description                                                                                         
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Description             |  It gives the user a set of questions related to a chosen disorder.                                                                  |
-| Such disorders include autism, anxiety, or depression. The system calculates a total score from the responses. Based on those responses, it also determines the| level of symptom severity.                                                                                                                                       |
-| Inputs                  | The type of disorder the user has chosen and their responses to each question.                                                       |
-| Source                  | Users enter their input by using the interface on the website.                                                                       |
-| Outputs                 | A total score and a severity label (e.g., “Mild Depression”, “Severe Anxiety”).                                                      |
-| Destination             | shown on the result page to the user.                                                                                                |
-| Action                  | The system pulls up the questions related to whatever disorder gets picked It assigns a number for every answer the user enters. Then| the system sums up these numbers and compares them with set score levels to determine the severity. Immediately afterwards, it shows the results with some feedback.                                                                                                                                                        |
-| Requires                | complete questionnaire answers and a valid disorder selection. Precondition: The user has selected a disorder and accessed its evaluation page.                                                                                                                                                 |
-| Precondition            | The user has selected a disorder and accessed its evaluation page.                                                                   |
-| Postcondition           | A message with advice and a severity result are shown.                                                                               |
-| Side Effects            | None                                                                                                                                                 |
+| Field | Description |
+|-------|-------------|
+| Description | It gives the user a set of questions related to a chosen disorder. Such disorders include autism, anxiety, or depression. The system calculates a total score from the responses. Based on those responses, it also determines the level of symptom severity. |
+| Inputs | The type of disorder the user has chosen and their responses to each question. |
+| Source | Users enter their input by using the interface on the website. |
+| Outputs | A total score and a severity label (e.g., “Mild Depression”, “Severe Anxiety”). |
+| Destination | shown on the result page to the user. |
+| Action | The system pulls up the questions related to whatever disorder gets picked It assigns a number for every answer the user enters. Then the system sums up these numbers and compares them with set score levels to determine the severity. Immediately afterwards, it shows the results with some feedback. |
+| Requires | complete questionnaire answers and a valid disorder selection. Precondition: The user has selected a disorder and accessed its evaluation page. |
+| Precondition | The user has selected a disorder and accessed its evaluation page. |
+| Postcondition | A message with advice and a severity result are shown. |
+| Side Effects | None |
 
 
 
