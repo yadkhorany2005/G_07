@@ -5,6 +5,8 @@ prepared by : Dania Abdullah
 
 This document shows the following use case diagram for Mental health disorders website, it connects user with the psychiatric services and mental health resources, the website contains detailed platforms for mental health management, professional connection, personalized support
 
+![WhatsApp Image 2025-11-03 at 23 43 15_e63167f8](https://github.com/user-attachments/assets/a8429fae-9704-4213-b615-59e12ff2a7f2)
+
 
 
 
