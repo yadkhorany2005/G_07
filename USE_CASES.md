@@ -35,9 +35,9 @@ Main Flow:
 3.take questionnaires: (actor: user) user complete mental health assessments questionnaire to evaluate their effects and conditions severity.
 
 Main Flow:
-1.	1.User selects available questionnaire 
-2.	2.Completes assessment 
-3.	3.System calculates and displays results 
+1.User selects available questionnaire 
+2.Completes assessment 
+3.System calculates and displays results 
 
 Business: critical scores should get immediate support options.
 
