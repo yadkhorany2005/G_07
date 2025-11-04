@@ -51,7 +51,7 @@ This document describes the functional and nonfunctional requirements for the Me
 ## Non-Functional Requirements
 
 |**ID**  |  **Non-Functional Requirement**                    |**Description**                                                                  |
-|:--- ---|:-------------------------------------------------- |:--------------------------------------------------------------------------------|
+|------|-------------------------------------------------- |--------------------------------------------------------------------------------|
 | NFR-01 | Easy to use and navigate.                          | User-friendly for all age groups.                                               |
 | NFR-02 | Reliable and verified information.                 | Content is checked by professionals or based on research.                       |
 | NFR-03 | Makes sure data is secured for the user’s privacy. | Protects user data from unauthorized access.                                    |
