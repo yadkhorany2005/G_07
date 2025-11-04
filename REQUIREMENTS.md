@@ -103,7 +103,7 @@ Role prepared by : Shatu Bakhtiar
 | Requires                | complete questionnaire answers and a valid disorder selection. Precondition: The user has selected a disorder and accessed its evaluation page.                                                                                                                                                 |
 | Precondition            | The user has selected a disorder and accessed its evaluation page.                                                                   |
 | Postcondition           | A message with advice and a severity result are shown.                                                                               |
-| Side Effects            | None                                                                                                                                 |
+| Side Effects            | None                                                                                                                                                 |
 
 
 
