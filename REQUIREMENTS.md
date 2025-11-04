@@ -122,8 +122,20 @@ Role prepared by : Shatu Bakhtiar
 | Side Effects | None. |
 
 
+## 3. Function: Multilingual Content Display            
 
-
+| Field | Description |
+|-------|-------------|
+| Description | displays content in Arabic, Kurdish, or English based on user preference, offering complete multilingual support. |
+| Inputs | User’s language selection. |
+| Source | User input or saved preference in session. |
+| Outputs | Webpage text, questions, and feedback displayed in the selected language. |
+| Destination | Browser display interface. |
+| Action | It pulls in the correct translation files when a language is selected, then instantly refreshes every single visible text. A selection is saved for the length of the session. |
+| Requires | Completed translation files for each supported language |
+| Precondition | Language selector on the homepage. |
+| Postcondition | All page content is presented in the chosen language until modified or the session times out. |
+| Side Effects | Session language updated. |
 
 
 
