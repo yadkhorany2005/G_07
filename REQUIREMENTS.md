@@ -46,6 +46,10 @@ Role prepared by: Nancy Louis
 Introduction:
 This document describes the functional and nonfunctional requirements for the Mental Disorder Website. This system is designed to help users understand mental health conditions, complete self-assessments and receive feedback in multiple languages (English, Arabic and Kurdish).
 
+User story :
+Based on the survey results, we identified that some patients may feel uncomfortable or embarrassed to discuss their health issues directly with a doctor. To address this, we aim to provide an online testing option that allows users to check their condition privately and conveniently.
+
+
 ## Functional Requirements
 
 | **ID** | **Functional Requirement**                           | **Description**                                                    |
